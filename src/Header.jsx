@@ -1,5 +1,3 @@
-import planet from "./DataPlanet"
-
 const namaHeader = "Hallo Fitri Jangan Kuis ya"
 const Header=()=>{
     return(

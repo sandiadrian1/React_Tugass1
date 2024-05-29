@@ -20,9 +20,9 @@ h1 {
 .card{
   background-color: burlywood;
   border: 1px solid #ccc;
-  border-radius: 20px;
+  border-radius: 50%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  width: 250px;
+  width: 270px;
   margin: 16px;
   overflow: hidden;
   gap: 20px;
